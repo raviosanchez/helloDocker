@@ -1,2 +1,2 @@
-# helloDocker
+# hellodocker
 creating a test docker image 
